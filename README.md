@@ -9,7 +9,8 @@ My name is Jakob, and I'm 13 years old. My birthday is the third of october.
 <img align="left" alt="Visual Studio Code Insider" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/1200px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" /><br />
 <br />
 <img align="left" alt="Discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png"/> 
+  <img align="left" alt="Typescript" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATypescript_logo_2020.svg&psig=AOvVaw2YpmIuv0_RXaPJDdavuZat&ust=1630085872303000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjlgp2dz_ICFQAAAAAdAAAAABAD" />
+<img align="left" alt="Javascript" width="26px" src="https://i.imgur.com/3u1wzwE.png"/> 
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/ml09ccU.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> <br><br>
 </div>
