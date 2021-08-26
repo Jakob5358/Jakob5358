@@ -15,5 +15,4 @@ My name is Jakob, and I'm 13 years old. My birthday is the third of october.
 </div>
 
 ## 🎈 My main project
-[Revan Bot](http://dsc.gg/revan):<br />
-A bot with powerful moderation, awesome giveaway features and slash commands.
+My main project is [Revan](http://dsc.gg/revan):<br />, which is bot with powerful moderation, awesome giveaway features and slash commands.
