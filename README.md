@@ -1,7 +1,6 @@
 # 👋 Hello!
 
-My name is Jakob, and I'm 14 years old. My birthday is the third of october.
-🇸🇪 I was born, and currently live in Sweden. (The best country)
+My name is Jakob, and ofcourse I'm swedish. (Best country)
 
 ## 😎 Tools and Programming languages I use.
 
