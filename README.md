@@ -1,6 +1,7 @@
-# 👋 Hello!
+# 👋 Hey!
 
-My name is Jakob, and ofcourse I'm swedish. (Best country)
+I'm Jakob and I'm a typescript developer. My code editor is vscode, here are some of the tools I use:
+- (Turborepo)[https://turborepo.org/]
 
 ## 🔧 Tools and Programming languages I use.
 
