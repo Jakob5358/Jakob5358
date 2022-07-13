@@ -5,3 +5,4 @@ I'm Jakob and I'm a typescript fullstack developer. My code editor is vscode, he
 - [Sveltekit](https://kit.svelte.dev/)
 - [Node.JS](https://nodejs.org/)
 - [Firebase](https://firebase.google.com/)
+- [Typescript](https://www.typescriptlang.org/)
